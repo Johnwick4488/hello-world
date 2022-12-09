@@ -16,7 +16,7 @@
     <label for="DOB"><b>Enter DOB</b></label>
     <input type="DOB" placeholder="Enter DOB" name="DOB" required>
     
-    <label for="Number"><b>Repeat Password</b></label>
+    <label for="Number"><b>Mobile Number</b></label>
     <input type="Number" placeholder="Enter Number" name="Number" required>
     
     <label>
